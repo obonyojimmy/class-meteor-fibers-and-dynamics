@@ -2,7 +2,7 @@
 ## <a href="https://www.eventedmind.com/classes/meteor-fibers-and-dynamics-9ba17f98" target="_blank">Class: Meteor Fibers and Dynamics</a>
 
 **Meteor**<br>
-**Core**
+****
 
 The meteor runtime lets you write asynchronous code in a synchronous style using
 the Fibers co-routines module. This way, you can make Mongo queries without
